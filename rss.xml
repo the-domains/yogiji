@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Yogiji]]></title>
         <description><![CDATA[Yogiji]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yogiji/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 13:05:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 13:05:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yogiji/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Practice]]></title>
+            <description><![CDATA[<article><h1>The Practice</h1><p>Natarajah Yoga is a holistic approach to yoga. The practice is centered around the four pillars: Karma (action), Bhakti (love/devotion)i, Jnana (knowledge) and Raja (meditation) yoga. We perform the Natarajah Yoga practices to expand our awareness and touch the mystical state. Over time we become established in our experience of yoga or oneness with God.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92e5e22de71e4a5cc8f4e225119d12a06d343bdd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yogiji/the-practice/index.html</link>
+            <guid isPermaLink="false">8c6f90aa-ed47-4085-96e2-467b4ff11f21</guid>
+            <pubDate>Sat, 09 Jan 2016 13:05:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About ]]></title>
-            <description><![CDATA[<article><h1>About </h1><p>Yogiji Yogiji is a devoted yogi and teacher who imparts his wonderful passion for life and wellness in his teaching. Yogiji is certified in the Classical Hatha tradition, as well as Kundalini Yoga as taught by Yogi Bhajan and educated in Reiki and Reconnective Healing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aff145515c865e2d3a37927cd66de7e2e8b00586.png"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <description><![CDATA[<article><h1>About </h1><p>Yogiji Yogiji is a devoted yogi and teacher who imparts his wonderful passion for life and wellness in his teaching. Yogiji is certified in the Classical Hatha tradition, as well as Kundalini Yoga as taught by Yogi Bhajan and educated in Reiki and Reconnective Healing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e87f390008d7cedb93264f414d8c00fd061914.png"></article>]]></description>
+            <link>https://thegrid.ai/yogiji/about/index.html</link>
             <guid isPermaLink="false">8deddcfe-33b3-4098-91f2-b81b9f4452d2</guid>
             <pubDate>Sat, 09 Jan 2016 13:05:00 GMT</pubDate>
         </item>
