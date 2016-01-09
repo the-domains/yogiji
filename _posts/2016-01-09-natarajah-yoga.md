@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://s3yogiji.com/about/natarajah-yoga/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - yoga
   - natarajah
@@ -17,8 +17,8 @@ keywords:
   - elevating
   - alignment
 description: 'Natarajah yoga is a dynamic system that integrates Tantric teachings of universal oneness, traditional hatha yoga Poses, breathing, kriyas and meditation. Through the practice of yoga we balance our mental and physical state bringing about a natural state of balance.'
-datePublished: '2016-01-09T16:05:05.615Z'
-dateModified: '2016-01-09T14:59:58.352Z'
+datePublished: '2016-01-09T16:15:34.043Z'
+dateModified: '2016-01-09T16:15:23.375Z'
 author: []
 related: []
 app_links: []
