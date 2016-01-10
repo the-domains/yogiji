@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T10:02:11.841Z'
-dateModified: '2016-01-10T10:01:53.694Z'
+datePublished: '2016-01-10T10:04:27.701Z'
+dateModified: '2016-01-10T10:04:02.224Z'
 title: 'Teacher Training '
 author: []
+sourcePath: _posts/2016-01-10-teacher-training.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-teacher-training.md
-published: true
 url: teacher-training/index.html
 _type: Article
 
