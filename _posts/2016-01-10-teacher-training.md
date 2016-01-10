@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'NATARAJAH YOGA is a holistic approach to yoga, which has its roots in the ancient Kundalini and Tantric traditions.'
-datePublished: '2016-01-10T09:51:50.433Z'
-dateModified: '2016-01-10T09:51:18.975Z'
+description: ''
+datePublished: '2016-01-10T09:56:19.919Z'
+dateModified: '2016-01-10T09:56:06.213Z'
 title: 'Teacher Training '
 author: []
 authors: []
@@ -22,7 +22,7 @@ url: teacher-training/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e475d4fa-eddf-4fe8-b078-e19315ff71c5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d53754de-f3ea-44cb-ae29-09f83fef3ce1.jpg)
 
 ## Teacher Training 
 
